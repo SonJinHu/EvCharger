@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">전기charger?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="dialog_menu1">사진 촬영</string>
+    <string name="dialog_menu2">앨범에서 사진 선택</string>
+    <string name="dialog_menu3">기본이미지로 변경</string>
+
+    <string name="timer_initialization">00:00:00</string>
+
+    <string name="b_hint_name">사용자 아이디</string>
+    <string name="b_hint_password">비밀번호</string>
+    <string name="b_checkbox_hidePassword">비밀번호 숨기기</string>
+    <string name="b_checkbox_autoLogin">자동 로그인</string>
+    <string name="b_button_login">로그인</string>
+    <string name="b_tv_ask">계정이 없으신가요?\u0020</string>
+    <string name="b_tv_goJoin">가입하기.</string>
+
+    <string name="c_hint_name">사용자 아이디</string>
+    <string name="c_hint_password1">비밀번호</string>
+    <string name="c_hint_password2">비밀번호 확인</string>
+    <string name="c_button_join">가입완료</string>
+    <string name="c_tv_ask">이미 계정이 있으신가요?\u0020</string>
+    <string name="c_tv_goLogin">로그인하기.</string>
+
+    <string name="deab_tv_subject">제목</string>
+    <string name="deab_tv_text">내용</string>
+</resources>
